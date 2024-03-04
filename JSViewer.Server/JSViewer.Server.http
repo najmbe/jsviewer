@@ -1,0 +1,6 @@
+@JSViewer.Server_HostAddress = http://localhost:5268
+
+GET {{JSViewer.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
